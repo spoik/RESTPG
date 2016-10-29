@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Editor Configs
+.idea/
+
+# Databases
+db.sqlite3
